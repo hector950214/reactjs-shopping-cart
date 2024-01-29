@@ -1,5 +1,5 @@
 # use a node base image
-FROM node@21.6-bookworm-slim › zlib/zlib1g@1:1.2.13.dfsg-1
+FROM ode@21.6-bookworm-slim 
 
 # Create app directory
 WORKDIR /usr/src/app
